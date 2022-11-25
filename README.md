@@ -14,6 +14,7 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 [LTSA's official release](https://www.doc.ic.ac.uk/ltsa)
 (Last updated June 2006; Additional Plug-ins are not functional)
 
+<br>
 
 # Installation
 ```sh
@@ -22,6 +23,8 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 3. This will automatically start the LTSA verification tool.
 ```
 
+<br>
+
 # Plugins
 ```sh
 1. MSC
@@ -29,12 +32,16 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 3. Web
 ```
 
+<br>
+
 # Manual
 ```sh
 1. Start the LTSA verification tool.
 2. Go to the "Help" option in the toolbar.
 3. Then select the "Manual" option.
 ```
+
+<br>
 
 # Developer
 ```sh
