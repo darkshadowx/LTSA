@@ -23,6 +23,8 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 3. This will automatically start the LTSA verification tool.
 ```
 
+If you are having trouble running the tool, then install [Java from the official website](https://www.java.com/download/ie_manual.jsp).
+
 <br>
 
 ## Plugins
