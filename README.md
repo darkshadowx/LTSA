@@ -16,7 +16,7 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 
 <br>
 
-# Installation
+## Installation
 ```sh
 1. Download the release version as a zip.
 2. Then unzip and run the "run.cmd" file.
@@ -25,7 +25,7 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 
 <br>
 
-# Plugins
+## Plugins
 ```sh
 1. MSC
 2. Scenebeans
@@ -34,7 +34,7 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 
 <br>
 
-# Manual
+## Manual
 ```sh
 1. Start the LTSA verification tool.
 2. Go to the "Help" option in the toolbar.
@@ -43,7 +43,7 @@ This is an extended version of the LTSA verification tool with a working MSC plu
 
 <br>
 
-# Developer
+## Developer
 ```sh
 * Name: Asif Mahmud
 * Contact Email Address: asifmahmud.dev.assistance@gmail.com
